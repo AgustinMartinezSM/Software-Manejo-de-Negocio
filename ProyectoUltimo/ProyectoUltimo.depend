@@ -1,0 +1,229 @@
+# depslib dependency file v1.0
+1700342044 source:c:\users\adami\downloads\tp final ultimo\filas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700342044 source:c:\users\adami\downloads\tp final ultimo\ldl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700518228 source:c:\users\adami\downloads\tp final ultimo\adl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ADL.h"
+
+1700519097 c:\users\adami\downloads\tp final ultimo\adl.h
+	"ARCHIVOS.h"
+
+1700499206 source:c:\users\adami\downloads\tp final ultimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700518858 source:c:\users\adami\downloads\tp final ultimo\lda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LDA.h"
+
+1700499241 c:\users\adami\downloads\tp final ultimo\lda.h
+	"ARCHIVOS.h"
+
+1700521028 source:c:\users\adami\downloads\tp final ultimo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MENU.h"
+
+1700510049 c:\users\adami\downloads\tp final ultimo\menu.h
+	"LDA.h"
+	"ADL.h"
+	"LISTAS.h"
+
+1700519129 source:c:\users\adami\downloads\tp final ultimo\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ARCHIVOS.h"
+
+1700519129 c:\users\adami\downloads\tp final ultimo\archivos.h
+
+1700340065 c:\users\adami\downloads\tp final ultimo\filas.h
+
+1700522026 source:c:\users\adami\downloads\tp final ultimo\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LISTAS.h"
+
+1700519812 c:\users\adami\downloads\tp final ultimo\listas.h
+
+1700518228 source:c:\users\tomy\desktop\tp final ultimo\adl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ADL.h"
+
+1700519097 c:\users\tomy\desktop\tp final ultimo\adl.h
+	"ARCHIVOS.h"
+
+1700523967 c:\users\tomy\desktop\tp final ultimo\archivos.h
+
+1700519129 source:c:\users\tomy\desktop\tp final ultimo\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ARCHIVOS.h"
+
+1700527898 source:c:\users\tomy\desktop\tp final ultimo\filas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FILAS.h"
+
+1700518858 source:c:\users\tomy\desktop\tp final ultimo\lda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LDA.h"
+
+1700499241 c:\users\tomy\desktop\tp final ultimo\lda.h
+	"ARCHIVOS.h"
+
+1700524762 source:c:\users\tomy\desktop\tp final ultimo\ldl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LDL.h"
+
+1700529489 source:c:\users\tomy\desktop\tp final ultimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MENU.h"
+
+1700530050 source:c:\users\tomy\desktop\tp final ultimo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MENU.h"
+
+1700529725 c:\users\tomy\desktop\tp final ultimo\menu.h
+	"LDA.h"
+	"ADL.h"
+	"LISTAS.h"
+	"FILAS.h"
+
+1700519812 c:\users\tomy\desktop\tp final ultimo\listas.h
+
+1700522026 source:c:\users\tomy\desktop\tp final ultimo\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LISTAS.h"
+
+1700527871 c:\users\tomy\desktop\tp final ultimo\filas.h
+	"ARCHIVOS.h"
+	"LD.h"
+
+1700527848 c:\users\tomy\desktop\tp final ultimo\ld.h
+	"ARCHIVOS.h"
+	"LISTAS.h"
+
+1700527898 source:c:\users\tomy\desktop\tp final ultimo\ld.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LD.h"
+
+1700524762 c:\users\tomy\desktop\tp final ultimo\ldl.h
+	"ARCHIVOS.h"
+
+1700549050 source:c:\users\agustin\desktop\tp final ultimo\adl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ADL.h"
+
+1700519097 c:\users\agustin\desktop\tp final ultimo\adl.h
+	"ARCHIVOS.h"
+
+1700523967 c:\users\agustin\desktop\tp final ultimo\archivos.h
+
+1700549041 source:c:\users\agustin\desktop\tp final ultimo\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ARCHIVOS.h"
+
+1700578254 source:c:\users\agustin\desktop\tp final ultimo\filas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FILAS.h"
+
+1700575995 c:\users\agustin\desktop\tp final ultimo\filas.h
+	"ARCHIVOS.h"
+	"LD.h"
+
+1700527848 c:\users\agustin\desktop\tp final ultimo\ld.h
+	"ARCHIVOS.h"
+	"LISTAS.h"
+
+1700576844 c:\users\agustin\desktop\tp final ultimo\listas.h
+
+1700549025 source:c:\users\agustin\desktop\tp final ultimo\lda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LDA.h"
+
+1700499241 c:\users\agustin\desktop\tp final ultimo\lda.h
+	"ARCHIVOS.h"
+
+1700575958 source:c:\users\agustin\desktop\tp final ultimo\ldl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LDL.h"
+
+1700575958 c:\users\agustin\desktop\tp final ultimo\ldl.h
+	"ARCHIVOS.h"
+
+1700550540 source:c:\users\agustin\desktop\tp final ultimo\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LISTAS.h"
+
+1700577486 source:c:\users\agustin\desktop\tp final ultimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MENU.h"
+
+1700541895 c:\users\agustin\desktop\tp final ultimo\menu.h
+	"LDA.h"
+	"ADL.h"
+	"LISTAS.h"
+	"FILAS.h"
+	"LDL.h"
+
+1700577782 source:c:\users\agustin\desktop\tp final ultimo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MENU.h"
+
+1700580859 source:c:\users\agustin\desktop\tp final ultimo\ld.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LD.h"
+
