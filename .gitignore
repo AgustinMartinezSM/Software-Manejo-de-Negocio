@@ -1,0 +1,15 @@
+# Artefactos de compilacion de Code::Blocks / GCC
+obj/
+bin/
+*.o
+*.exe
+*.depend
+*.layout
+
+# Datos generados por el programa en tiempo de ejecucion
+*.bin
+
+# Sistema
+desktop.ini
+Thumbs.db
+.DS_Store
